@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# 3D Audio visualizer
+
+## Petit texte d'intention
+
+Ce projet est basé sur la génération d'un visuel synchronisé avec la musique lorsqu'elle est jouée.
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
